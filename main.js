@@ -1,7 +1,7 @@
 /*criação objeto com os dados que substituiirão os links anteriores*/
 
 const LinksSocialMedia = {
-  github: 'alinenog',
+  github: 'alinenogmartins',
   youtube: 'rocketseat',
   instagram: 'rocketseat_oficial',
   facebook: 'rocketseat',
