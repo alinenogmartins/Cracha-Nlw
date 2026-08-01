@@ -28,16 +28,14 @@ O objetivo foi criar um crachá virtual que consome a API pública do GitHub par
 <li> GitHub API
 
 </br>
+</br>
 
-## Como executar o programa 
+✳️Link de acesso </br>
+</br>
 
 ```bash
-git clone alinenogmartins/Cracha-Nlw.git
-```
-</br>
-✳️Link de acesso </br>
 https://alinenogmartins.github.io/Cracha-Nlw/
-</br>
+```
 
 ### Autora
 💜Aline Nogueir@  👩‍💻
